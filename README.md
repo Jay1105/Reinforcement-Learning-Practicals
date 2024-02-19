@@ -1,2 +1,2 @@
 # Reinforcement-Learning-Practicals
-This repository contains all the work/ labs that has been done on Reinforcement Learning
+This repository contains all the work/ labs that have been done by me on Reinforcement Learning
